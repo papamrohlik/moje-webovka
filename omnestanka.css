@@ -1,0 +1,51 @@
+body{
+    font-family: Arial;
+    background-color: rgb(36, 36, 116);
+    margin: 30px;
+    line-height: 1.5;
+    color: violet;
+}
+
+
+header{
+     text-align: center;
+     color: rgb(0, 255, 170);
+     
+    
+}
+
+
+img{
+    border-radius: 50%;
+    border: 5px solid rgb(6, 70, 78);
+    padding: 7px;
+}
+main{
+
+     text-align: center;
+}
+section{
+   
+    padding: 5px;
+    width: auto;
+    color: cyan;
+
+     border-bottom: 1px solid lightskyblue ;
+     border-bottom-left-radius: 100px;
+      border-bottom-right-radius: 100px;
+    
+     
+        
+}
+.karta2{
+    text-align: center;
+}
+.paticka{
+    color: darkkhaki; 
+}
+.odkazy{
+    color: black;
+}
+h1,h2{
+   font-size: 30px;
+}
